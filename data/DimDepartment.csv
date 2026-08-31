@@ -1,0 +1,13 @@
+DepartmentKey,DepartmentName,ServiceLine,FacilityName,State
+1,Emergency Department,Acute Care,Royal Sydney General,NSW
+2,Cardiology,Medical Specialties,Royal Sydney General,NSW
+3,Orthopaedics,Surgical Services,Royal Sydney General,NSW
+4,Oncology,Medical Specialties,Parkville Health Centre,VIC
+5,Maternity,Women's Health,Parkville Health Centre,VIC
+6,Respiratory Medicine,Medical Specialties,Parkville Health Centre,VIC
+7,General Surgery,Surgical Services,Brisbane Northside Hospital,QLD
+8,Intensive Care,Acute Care,Brisbane Northside Hospital,QLD
+9,Rehabilitation,Sub-Acute Care,Brisbane Northside Hospital,QLD
+10,Paediatrics,Women's Health,Adelaide Central Hospital,SA
+11,Renal Medicine,Medical Specialties,Adelaide Central Hospital,SA
+12,Mental Health,Community Services,Adelaide Central Hospital,SA

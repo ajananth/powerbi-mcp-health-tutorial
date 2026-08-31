@@ -1,0 +1,801 @@
+PatientKey,PatientID,AgeBand,Gender,Region,InsuranceType,ChronicConditionFlag
+1,PT-100001,0-17,Male,Western Sydney,Medicare Only,No
+2,PT-100002,18-34,Male,Western Sydney,DVA,No
+3,PT-100003,35-49,Male,Brisbane Metro,Private - Basic,Yes
+4,PT-100004,80+,Female,Brisbane Metro,Workers Compensation,No
+5,PT-100005,18-34,Female,Western Sydney,Private - Gold,No
+6,PT-100006,18-34,Female,Regional QLD,Medicare Only,No
+7,PT-100007,50-64,Female,Inner Sydney,Medicare Only,No
+8,PT-100008,35-49,Female,Melbourne Metro,Private - Basic,No
+9,PT-100009,35-49,Male,Adelaide Metro,Private - Basic,No
+10,PT-100010,18-34,Male,Melbourne Metro,Private - Basic,No
+11,PT-100011,65-79,Female,Melbourne Metro,Medicare Only,No
+12,PT-100012,35-49,Male,Inner Sydney,DVA,No
+13,PT-100013,18-34,Female,Adelaide Metro,Workers Compensation,No
+14,PT-100014,65-79,Female,Melbourne Metro,Workers Compensation,No
+15,PT-100015,65-79,Female,Regional QLD,Private - Gold,No
+16,PT-100016,35-49,Male,Regional VIC,Medicare Only,No
+17,PT-100017,65-79,Male,Regional SA,Medicare Only,Yes
+18,PT-100018,65-79,Female,Regional VIC,Medicare Only,Yes
+19,PT-100019,50-64,Female,Western Sydney,Workers Compensation,No
+20,PT-100020,35-49,Female,Regional QLD,Workers Compensation,No
+21,PT-100021,18-34,Female,Brisbane Metro,Medicare Only,No
+22,PT-100022,50-64,Male,Adelaide Metro,Private - Basic,No
+23,PT-100023,50-64,Male,Brisbane Metro,Medicare Only,No
+24,PT-100024,35-49,Male,Regional VIC,Medicare Only,No
+25,PT-100025,0-17,Female,Regional QLD,Private - Gold,No
+26,PT-100026,18-34,Male,Adelaide Metro,Medicare Only,No
+27,PT-100027,65-79,Female,Adelaide Metro,Private - Gold,No
+28,PT-100028,80+,Female,Inner Sydney,Medicare Only,No
+29,PT-100029,18-34,Male,Regional QLD,Private - Basic,No
+30,PT-100030,35-49,Female,Melbourne Metro,Private - Gold,No
+31,PT-100031,35-49,Male,Western Sydney,Private - Gold,No
+32,PT-100032,65-79,Female,Regional VIC,Medicare Only,No
+33,PT-100033,0-17,Male,Western Sydney,Medicare Only,No
+34,PT-100034,65-79,Male,Adelaide Metro,Private - Basic,No
+35,PT-100035,18-34,Female,Western Sydney,Private - Gold,No
+36,PT-100036,18-34,Male,Regional SA,Medicare Only,No
+37,PT-100037,18-34,Female,Regional SA,Private - Gold,No
+38,PT-100038,80+,Male,Regional SA,Private - Basic,No
+39,PT-100039,65-79,Male,Regional SA,DVA,Yes
+40,PT-100040,65-79,Female,Regional VIC,Private - Gold,Yes
+41,PT-100041,35-49,Female,Regional VIC,Medicare Only,No
+42,PT-100042,0-17,Female,Regional QLD,DVA,No
+43,PT-100043,18-34,Female,Melbourne Metro,Private - Gold,Yes
+44,PT-100044,0-17,Male,Adelaide Metro,Medicare Only,No
+45,PT-100045,65-79,Male,Inner Sydney,Private - Gold,Yes
+46,PT-100046,65-79,Female,Regional QLD,Medicare Only,Yes
+47,PT-100047,35-49,Male,Regional VIC,Private - Basic,No
+48,PT-100048,35-49,Female,Adelaide Metro,Private - Gold,No
+49,PT-100049,65-79,Other,Inner Sydney,DVA,No
+50,PT-100050,50-64,Female,Adelaide Metro,Medicare Only,No
+51,PT-100051,50-64,Female,Regional VIC,Medicare Only,Yes
+52,PT-100052,35-49,Female,Adelaide Metro,Medicare Only,No
+53,PT-100053,18-34,Male,Regional QLD,Medicare Only,Yes
+54,PT-100054,0-17,Female,Inner Sydney,Workers Compensation,No
+55,PT-100055,18-34,Female,Melbourne Metro,Private - Basic,Yes
+56,PT-100056,18-34,Female,Brisbane Metro,Private - Gold,No
+57,PT-100057,18-34,Male,Western Sydney,Private - Gold,No
+58,PT-100058,18-34,Male,Brisbane Metro,Private - Basic,No
+59,PT-100059,80+,Male,Regional VIC,Medicare Only,Yes
+60,PT-100060,65-79,Female,Brisbane Metro,Private - Gold,No
+61,PT-100061,50-64,Other,Inner Sydney,Medicare Only,Yes
+62,PT-100062,35-49,Male,Regional QLD,Medicare Only,No
+63,PT-100063,35-49,Female,Regional QLD,Private - Basic,No
+64,PT-100064,65-79,Female,Brisbane Metro,Private - Basic,No
+65,PT-100065,80+,Female,Brisbane Metro,Medicare Only,No
+66,PT-100066,18-34,Female,Regional SA,Medicare Only,No
+67,PT-100067,50-64,Female,Inner Sydney,Private - Basic,No
+68,PT-100068,35-49,Female,Brisbane Metro,Medicare Only,No
+69,PT-100069,65-79,Female,Inner Sydney,Private - Basic,No
+70,PT-100070,18-34,Female,Regional VIC,Private - Gold,No
+71,PT-100071,50-64,Male,Western Sydney,Medicare Only,No
+72,PT-100072,35-49,Male,Regional QLD,Private - Basic,No
+73,PT-100073,50-64,Male,Regional QLD,Medicare Only,No
+74,PT-100074,35-49,Female,Regional VIC,Medicare Only,No
+75,PT-100075,65-79,Male,Regional VIC,Medicare Only,No
+76,PT-100076,50-64,Male,Brisbane Metro,Workers Compensation,No
+77,PT-100077,65-79,Female,Brisbane Metro,Medicare Only,Yes
+78,PT-100078,50-64,Male,Brisbane Metro,Private - Gold,No
+79,PT-100079,18-34,Male,Inner Sydney,Private - Basic,No
+80,PT-100080,50-64,Female,Inner Sydney,Medicare Only,No
+81,PT-100081,65-79,Female,Regional SA,Medicare Only,Yes
+82,PT-100082,50-64,Female,Brisbane Metro,Medicare Only,Yes
+83,PT-100083,18-34,Female,Regional VIC,Private - Gold,No
+84,PT-100084,35-49,Female,Adelaide Metro,Medicare Only,No
+85,PT-100085,50-64,Male,Regional VIC,Private - Basic,No
+86,PT-100086,35-49,Female,Western Sydney,Medicare Only,Yes
+87,PT-100087,35-49,Female,Inner Sydney,Medicare Only,No
+88,PT-100088,65-79,Female,Regional VIC,DVA,No
+89,PT-100089,65-79,Male,Regional VIC,Medicare Only,No
+90,PT-100090,50-64,Male,Melbourne Metro,Medicare Only,No
+91,PT-100091,18-34,Male,Brisbane Metro,Medicare Only,No
+92,PT-100092,50-64,Female,Brisbane Metro,Private - Basic,No
+93,PT-100093,50-64,Female,Adelaide Metro,Private - Gold,Yes
+94,PT-100094,50-64,Female,Inner Sydney,Workers Compensation,Yes
+95,PT-100095,50-64,Female,Melbourne Metro,Private - Basic,No
+96,PT-100096,50-64,Female,Adelaide Metro,Private - Basic,No
+97,PT-100097,50-64,Female,Regional QLD,Medicare Only,Yes
+98,PT-100098,18-34,Female,Regional SA,Medicare Only,Yes
+99,PT-100099,80+,Male,Regional SA,Medicare Only,No
+100,PT-100100,18-34,Male,Inner Sydney,Private - Gold,Yes
+101,PT-100101,50-64,Female,Regional QLD,Private - Basic,No
+102,PT-100102,50-64,Female,Brisbane Metro,Private - Basic,No
+103,PT-100103,80+,Male,Western Sydney,Medicare Only,Yes
+104,PT-100104,50-64,Male,Brisbane Metro,Private - Basic,No
+105,PT-100105,50-64,Other,Western Sydney,Private - Basic,Yes
+106,PT-100106,18-34,Male,Brisbane Metro,Private - Basic,No
+107,PT-100107,35-49,Other,Regional VIC,Medicare Only,No
+108,PT-100108,18-34,Male,Melbourne Metro,DVA,No
+109,PT-100109,35-49,Female,Brisbane Metro,Private - Gold,No
+110,PT-100110,35-49,Male,Regional SA,DVA,No
+111,PT-100111,35-49,Female,Adelaide Metro,Medicare Only,No
+112,PT-100112,35-49,Male,Adelaide Metro,Medicare Only,No
+113,PT-100113,65-79,Male,Adelaide Metro,Medicare Only,Yes
+114,PT-100114,50-64,Other,Regional SA,Workers Compensation,No
+115,PT-100115,18-34,Female,Western Sydney,DVA,No
+116,PT-100116,35-49,Female,Melbourne Metro,Medicare Only,No
+117,PT-100117,50-64,Female,Brisbane Metro,Medicare Only,Yes
+118,PT-100118,65-79,Male,Adelaide Metro,Workers Compensation,No
+119,PT-100119,50-64,Female,Inner Sydney,Private - Basic,No
+120,PT-100120,18-34,Female,Regional VIC,Private - Gold,No
+121,PT-100121,35-49,Male,Western Sydney,Medicare Only,Yes
+122,PT-100122,65-79,Female,Inner Sydney,Medicare Only,No
+123,PT-100123,35-49,Male,Melbourne Metro,Medicare Only,Yes
+124,PT-100124,0-17,Male,Regional VIC,Private - Basic,No
+125,PT-100125,50-64,Male,Regional SA,Medicare Only,No
+126,PT-100126,0-17,Male,Melbourne Metro,Medicare Only,No
+127,PT-100127,80+,Female,Adelaide Metro,Private - Gold,No
+128,PT-100128,35-49,Other,Regional SA,Medicare Only,No
+129,PT-100129,35-49,Female,Brisbane Metro,Medicare Only,No
+130,PT-100130,65-79,Female,Inner Sydney,DVA,Yes
+131,PT-100131,65-79,Male,Regional VIC,Private - Basic,No
+132,PT-100132,35-49,Male,Melbourne Metro,Private - Basic,No
+133,PT-100133,80+,Female,Regional SA,Medicare Only,No
+134,PT-100134,35-49,Male,Regional QLD,Private - Gold,Yes
+135,PT-100135,18-34,Male,Regional QLD,Private - Basic,Yes
+136,PT-100136,80+,Female,Regional SA,Workers Compensation,No
+137,PT-100137,35-49,Male,Regional SA,Workers Compensation,No
+138,PT-100138,18-34,Male,Adelaide Metro,Workers Compensation,No
+139,PT-100139,65-79,Male,Inner Sydney,Medicare Only,Yes
+140,PT-100140,18-34,Male,Brisbane Metro,Private - Basic,No
+141,PT-100141,65-79,Female,Regional VIC,Private - Basic,No
+142,PT-100142,50-64,Female,Regional VIC,Private - Gold,No
+143,PT-100143,50-64,Male,Adelaide Metro,Medicare Only,No
+144,PT-100144,0-17,Other,Western Sydney,Medicare Only,Yes
+145,PT-100145,65-79,Female,Adelaide Metro,Private - Basic,Yes
+146,PT-100146,65-79,Male,Regional SA,Private - Basic,No
+147,PT-100147,80+,Male,Regional VIC,Medicare Only,Yes
+148,PT-100148,80+,Female,Regional QLD,Private - Basic,No
+149,PT-100149,80+,Female,Regional VIC,Workers Compensation,Yes
+150,PT-100150,80+,Female,Regional VIC,Private - Gold,No
+151,PT-100151,50-64,Male,Regional VIC,Workers Compensation,Yes
+152,PT-100152,65-79,Male,Regional VIC,Private - Basic,Yes
+153,PT-100153,65-79,Male,Inner Sydney,Medicare Only,Yes
+154,PT-100154,80+,Male,Melbourne Metro,Medicare Only,No
+155,PT-100155,65-79,Female,Regional VIC,Private - Basic,Yes
+156,PT-100156,0-17,Female,Adelaide Metro,Private - Basic,No
+157,PT-100157,65-79,Male,Western Sydney,Medicare Only,Yes
+158,PT-100158,18-34,Male,Brisbane Metro,Medicare Only,No
+159,PT-100159,80+,Female,Adelaide Metro,Medicare Only,Yes
+160,PT-100160,18-34,Female,Western Sydney,Medicare Only,No
+161,PT-100161,18-34,Male,Regional QLD,Medicare Only,Yes
+162,PT-100162,50-64,Male,Adelaide Metro,Medicare Only,No
+163,PT-100163,65-79,Male,Regional VIC,Medicare Only,No
+164,PT-100164,65-79,Male,Adelaide Metro,Medicare Only,Yes
+165,PT-100165,18-34,Male,Regional QLD,Workers Compensation,No
+166,PT-100166,65-79,Female,Western Sydney,Medicare Only,Yes
+167,PT-100167,18-34,Male,Inner Sydney,Private - Basic,No
+168,PT-100168,50-64,Female,Regional QLD,DVA,No
+169,PT-100169,80+,Male,Inner Sydney,Workers Compensation,Yes
+170,PT-100170,50-64,Male,Regional VIC,Medicare Only,No
+171,PT-100171,50-64,Female,Regional QLD,Medicare Only,No
+172,PT-100172,35-49,Female,Inner Sydney,Private - Basic,No
+173,PT-100173,50-64,Female,Brisbane Metro,Private - Gold,No
+174,PT-100174,35-49,Female,Melbourne Metro,Private - Basic,No
+175,PT-100175,35-49,Male,Inner Sydney,Medicare Only,Yes
+176,PT-100176,50-64,Female,Melbourne Metro,Medicare Only,No
+177,PT-100177,65-79,Male,Western Sydney,DVA,No
+178,PT-100178,18-34,Female,Western Sydney,Medicare Only,No
+179,PT-100179,50-64,Female,Brisbane Metro,Medicare Only,No
+180,PT-100180,50-64,Female,Regional SA,Private - Basic,No
+181,PT-100181,35-49,Other,Inner Sydney,Medicare Only,No
+182,PT-100182,35-49,Female,Brisbane Metro,Medicare Only,No
+183,PT-100183,18-34,Female,Melbourne Metro,Medicare Only,No
+184,PT-100184,65-79,Male,Regional QLD,Medicare Only,Yes
+185,PT-100185,65-79,Female,Western Sydney,DVA,Yes
+186,PT-100186,50-64,Male,Adelaide Metro,Medicare Only,No
+187,PT-100187,35-49,Female,Regional SA,Private - Gold,No
+188,PT-100188,80+,Male,Regional VIC,Medicare Only,Yes
+189,PT-100189,35-49,Male,Regional QLD,Medicare Only,Yes
+190,PT-100190,65-79,Male,Regional VIC,DVA,Yes
+191,PT-100191,35-49,Male,Melbourne Metro,Medicare Only,No
+192,PT-100192,18-34,Male,Western Sydney,Medicare Only,No
+193,PT-100193,65-79,Male,Regional SA,Private - Gold,Yes
+194,PT-100194,65-79,Other,Regional QLD,DVA,No
+195,PT-100195,50-64,Female,Regional SA,Private - Basic,Yes
+196,PT-100196,65-79,Female,Western Sydney,Medicare Only,No
+197,PT-100197,35-49,Male,Western Sydney,Private - Gold,Yes
+198,PT-100198,80+,Male,Adelaide Metro,Private - Basic,Yes
+199,PT-100199,50-64,Male,Regional SA,DVA,No
+200,PT-100200,50-64,Male,Melbourne Metro,Workers Compensation,No
+201,PT-100201,35-49,Male,Western Sydney,Private - Basic,No
+202,PT-100202,18-34,Female,Regional SA,Private - Basic,No
+203,PT-100203,50-64,Male,Adelaide Metro,Medicare Only,No
+204,PT-100204,35-49,Male,Regional QLD,Medicare Only,No
+205,PT-100205,18-34,Female,Melbourne Metro,Medicare Only,No
+206,PT-100206,50-64,Female,Adelaide Metro,Medicare Only,Yes
+207,PT-100207,65-79,Male,Regional QLD,Private - Gold,Yes
+208,PT-100208,50-64,Male,Western Sydney,Private - Gold,No
+209,PT-100209,35-49,Female,Melbourne Metro,Workers Compensation,No
+210,PT-100210,35-49,Female,Melbourne Metro,Medicare Only,No
+211,PT-100211,35-49,Male,Inner Sydney,Private - Gold,No
+212,PT-100212,65-79,Male,Melbourne Metro,Medicare Only,No
+213,PT-100213,65-79,Male,Melbourne Metro,Private - Gold,No
+214,PT-100214,0-17,Male,Regional SA,Private - Basic,No
+215,PT-100215,65-79,Female,Regional VIC,Medicare Only,No
+216,PT-100216,65-79,Male,Regional QLD,Private - Gold,Yes
+217,PT-100217,50-64,Male,Adelaide Metro,Private - Basic,No
+218,PT-100218,35-49,Female,Melbourne Metro,DVA,Yes
+219,PT-100219,0-17,Female,Western Sydney,Private - Gold,No
+220,PT-100220,50-64,Female,Melbourne Metro,Medicare Only,Yes
+221,PT-100221,80+,Female,Regional VIC,Private - Gold,Yes
+222,PT-100222,65-79,Female,Adelaide Metro,Private - Basic,No
+223,PT-100223,18-34,Female,Inner Sydney,Medicare Only,No
+224,PT-100224,18-34,Female,Melbourne Metro,Medicare Only,No
+225,PT-100225,35-49,Male,Melbourne Metro,Private - Gold,No
+226,PT-100226,50-64,Male,Inner Sydney,Medicare Only,No
+227,PT-100227,65-79,Male,Adelaide Metro,Medicare Only,Yes
+228,PT-100228,35-49,Female,Adelaide Metro,Private - Basic,No
+229,PT-100229,50-64,Male,Regional SA,Private - Basic,Yes
+230,PT-100230,0-17,Female,Melbourne Metro,Medicare Only,No
+231,PT-100231,0-17,Male,Melbourne Metro,Private - Gold,No
+232,PT-100232,18-34,Female,Inner Sydney,Medicare Only,No
+233,PT-100233,50-64,Other,Brisbane Metro,Private - Gold,No
+234,PT-100234,35-49,Female,Western Sydney,Private - Gold,Yes
+235,PT-100235,65-79,Female,Regional QLD,Private - Gold,Yes
+236,PT-100236,18-34,Female,Regional SA,Private - Basic,No
+237,PT-100237,65-79,Male,Regional SA,Medicare Only,Yes
+238,PT-100238,18-34,Male,Regional QLD,Workers Compensation,No
+239,PT-100239,50-64,Male,Brisbane Metro,Medicare Only,No
+240,PT-100240,50-64,Male,Inner Sydney,DVA,No
+241,PT-100241,35-49,Female,Adelaide Metro,Private - Gold,Yes
+242,PT-100242,65-79,Male,Regional SA,Private - Gold,Yes
+243,PT-100243,35-49,Female,Western Sydney,Private - Gold,No
+244,PT-100244,0-17,Male,Brisbane Metro,Medicare Only,No
+245,PT-100245,18-34,Female,Adelaide Metro,Medicare Only,No
+246,PT-100246,35-49,Male,Regional QLD,Private - Basic,No
+247,PT-100247,35-49,Male,Inner Sydney,Medicare Only,No
+248,PT-100248,50-64,Male,Melbourne Metro,Workers Compensation,No
+249,PT-100249,18-34,Male,Inner Sydney,Medicare Only,No
+250,PT-100250,18-34,Female,Inner Sydney,Private - Basic,No
+251,PT-100251,50-64,Female,Western Sydney,Private - Basic,No
+252,PT-100252,50-64,Male,Regional VIC,Workers Compensation,No
+253,PT-100253,0-17,Male,Western Sydney,Medicare Only,No
+254,PT-100254,35-49,Other,Brisbane Metro,Private - Gold,No
+255,PT-100255,80+,Female,Western Sydney,Medicare Only,Yes
+256,PT-100256,65-79,Female,Regional QLD,Private - Gold,Yes
+257,PT-100257,65-79,Female,Brisbane Metro,Private - Gold,Yes
+258,PT-100258,65-79,Male,Regional QLD,Private - Basic,No
+259,PT-100259,18-34,Female,Regional SA,Medicare Only,No
+260,PT-100260,50-64,Male,Melbourne Metro,Private - Basic,No
+261,PT-100261,18-34,Other,Regional SA,Private - Basic,No
+262,PT-100262,65-79,Female,Regional QLD,Private - Gold,No
+263,PT-100263,35-49,Female,Melbourne Metro,Private - Gold,No
+264,PT-100264,18-34,Male,Western Sydney,Private - Basic,No
+265,PT-100265,35-49,Male,Regional VIC,Medicare Only,Yes
+266,PT-100266,80+,Male,Brisbane Metro,Medicare Only,No
+267,PT-100267,80+,Male,Western Sydney,Private - Basic,Yes
+268,PT-100268,18-34,Female,Regional QLD,Private - Gold,No
+269,PT-100269,50-64,Female,Inner Sydney,Workers Compensation,No
+270,PT-100270,65-79,Female,Adelaide Metro,Private - Basic,Yes
+271,PT-100271,0-17,Male,Brisbane Metro,Private - Basic,No
+272,PT-100272,65-79,Female,Western Sydney,Private - Gold,No
+273,PT-100273,18-34,Female,Regional QLD,Private - Basic,No
+274,PT-100274,35-49,Male,Regional QLD,Workers Compensation,No
+275,PT-100275,18-34,Male,Regional QLD,Medicare Only,No
+276,PT-100276,18-34,Female,Inner Sydney,Medicare Only,No
+277,PT-100277,35-49,Female,Melbourne Metro,Private - Gold,No
+278,PT-100278,80+,Female,Melbourne Metro,Private - Basic,No
+279,PT-100279,50-64,Female,Inner Sydney,Medicare Only,No
+280,PT-100280,35-49,Female,Regional QLD,Medicare Only,No
+281,PT-100281,35-49,Male,Regional SA,Medicare Only,No
+282,PT-100282,0-17,Female,Brisbane Metro,Private - Gold,Yes
+283,PT-100283,65-79,Female,Regional VIC,Medicare Only,Yes
+284,PT-100284,35-49,Female,Brisbane Metro,Private - Gold,No
+285,PT-100285,50-64,Female,Western Sydney,Medicare Only,No
+286,PT-100286,65-79,Male,Melbourne Metro,Medicare Only,Yes
+287,PT-100287,50-64,Female,Melbourne Metro,Private - Gold,No
+288,PT-100288,65-79,Female,Melbourne Metro,Medicare Only,Yes
+289,PT-100289,50-64,Other,Brisbane Metro,Private - Basic,Yes
+290,PT-100290,50-64,Female,Brisbane Metro,Private - Basic,No
+291,PT-100291,0-17,Female,Adelaide Metro,Private - Basic,No
+292,PT-100292,65-79,Male,Inner Sydney,Private - Basic,No
+293,PT-100293,35-49,Male,Regional VIC,Private - Gold,No
+294,PT-100294,50-64,Male,Adelaide Metro,Medicare Only,Yes
+295,PT-100295,65-79,Male,Western Sydney,Medicare Only,Yes
+296,PT-100296,35-49,Female,Regional VIC,Medicare Only,No
+297,PT-100297,65-79,Male,Inner Sydney,Private - Gold,No
+298,PT-100298,50-64,Other,Regional SA,Private - Basic,No
+299,PT-100299,35-49,Male,Regional QLD,Private - Basic,Yes
+300,PT-100300,50-64,Male,Brisbane Metro,Private - Basic,No
+301,PT-100301,18-34,Male,Regional VIC,Workers Compensation,No
+302,PT-100302,80+,Male,Regional SA,Medicare Only,No
+303,PT-100303,35-49,Male,Brisbane Metro,Medicare Only,No
+304,PT-100304,50-64,Male,Adelaide Metro,Private - Gold,No
+305,PT-100305,80+,Female,Brisbane Metro,Workers Compensation,No
+306,PT-100306,0-17,Male,Regional SA,Medicare Only,No
+307,PT-100307,65-79,Male,Brisbane Metro,Medicare Only,Yes
+308,PT-100308,50-64,Female,Regional VIC,Private - Basic,No
+309,PT-100309,0-17,Male,Western Sydney,Private - Gold,No
+310,PT-100310,18-34,Male,Melbourne Metro,Medicare Only,No
+311,PT-100311,80+,Female,Regional VIC,Private - Gold,No
+312,PT-100312,35-49,Female,Western Sydney,Private - Gold,No
+313,PT-100313,18-34,Male,Inner Sydney,DVA,No
+314,PT-100314,18-34,Female,Inner Sydney,Workers Compensation,No
+315,PT-100315,35-49,Male,Brisbane Metro,DVA,No
+316,PT-100316,0-17,Female,Regional QLD,Medicare Only,No
+317,PT-100317,80+,Male,Melbourne Metro,Private - Gold,Yes
+318,PT-100318,50-64,Female,Melbourne Metro,Private - Gold,No
+319,PT-100319,50-64,Female,Regional QLD,Private - Gold,No
+320,PT-100320,50-64,Female,Adelaide Metro,Private - Gold,No
+321,PT-100321,50-64,Male,Melbourne Metro,Workers Compensation,Yes
+322,PT-100322,50-64,Female,Adelaide Metro,Medicare Only,No
+323,PT-100323,65-79,Female,Inner Sydney,Medicare Only,No
+324,PT-100324,35-49,Male,Regional SA,Medicare Only,No
+325,PT-100325,35-49,Male,Brisbane Metro,Private - Gold,No
+326,PT-100326,50-64,Female,Regional VIC,Medicare Only,No
+327,PT-100327,18-34,Male,Regional QLD,Medicare Only,Yes
+328,PT-100328,50-64,Male,Regional VIC,Private - Gold,No
+329,PT-100329,65-79,Male,Regional SA,Private - Basic,No
+330,PT-100330,35-49,Female,Regional VIC,Private - Basic,No
+331,PT-100331,18-34,Male,Western Sydney,Private - Gold,No
+332,PT-100332,65-79,Male,Regional SA,Private - Gold,Yes
+333,PT-100333,35-49,Female,Inner Sydney,Private - Basic,No
+334,PT-100334,50-64,Female,Brisbane Metro,Private - Gold,No
+335,PT-100335,65-79,Female,Regional QLD,Private - Gold,No
+336,PT-100336,50-64,Male,Regional SA,Medicare Only,Yes
+337,PT-100337,35-49,Male,Adelaide Metro,Medicare Only,No
+338,PT-100338,65-79,Male,Adelaide Metro,Medicare Only,Yes
+339,PT-100339,65-79,Male,Regional QLD,Medicare Only,No
+340,PT-100340,80+,Female,Regional VIC,Private - Gold,Yes
+341,PT-100341,65-79,Female,Adelaide Metro,Private - Basic,No
+342,PT-100342,65-79,Female,Brisbane Metro,Medicare Only,Yes
+343,PT-100343,65-79,Female,Adelaide Metro,Private - Basic,No
+344,PT-100344,80+,Female,Western Sydney,Medicare Only,No
+345,PT-100345,0-17,Male,Inner Sydney,Medicare Only,No
+346,PT-100346,0-17,Male,Inner Sydney,Medicare Only,No
+347,PT-100347,80+,Male,Regional QLD,Private - Basic,Yes
+348,PT-100348,65-79,Female,Melbourne Metro,Workers Compensation,No
+349,PT-100349,50-64,Female,Melbourne Metro,Private - Basic,No
+350,PT-100350,35-49,Male,Adelaide Metro,Private - Gold,No
+351,PT-100351,35-49,Female,Adelaide Metro,Medicare Only,No
+352,PT-100352,50-64,Female,Melbourne Metro,Private - Gold,No
+353,PT-100353,80+,Male,Melbourne Metro,Medicare Only,No
+354,PT-100354,18-34,Female,Regional SA,Private - Gold,No
+355,PT-100355,18-34,Female,Brisbane Metro,Medicare Only,No
+356,PT-100356,50-64,Female,Regional VIC,Private - Basic,Yes
+357,PT-100357,65-79,Male,Inner Sydney,Medicare Only,Yes
+358,PT-100358,18-34,Male,Regional SA,DVA,No
+359,PT-100359,65-79,Female,Regional VIC,Private - Basic,No
+360,PT-100360,65-79,Male,Regional QLD,Medicare Only,Yes
+361,PT-100361,35-49,Female,Regional SA,Private - Gold,No
+362,PT-100362,35-49,Female,Inner Sydney,Private - Basic,No
+363,PT-100363,18-34,Female,Adelaide Metro,Medicare Only,Yes
+364,PT-100364,18-34,Male,Regional VIC,Private - Basic,No
+365,PT-100365,50-64,Female,Regional SA,Workers Compensation,No
+366,PT-100366,50-64,Female,Regional QLD,Medicare Only,No
+367,PT-100367,65-79,Male,Inner Sydney,Private - Basic,Yes
+368,PT-100368,65-79,Male,Inner Sydney,Private - Gold,Yes
+369,PT-100369,35-49,Female,Melbourne Metro,Medicare Only,No
+370,PT-100370,50-64,Male,Regional SA,Private - Gold,No
+371,PT-100371,0-17,Female,Inner Sydney,Private - Basic,No
+372,PT-100372,35-49,Female,Adelaide Metro,Private - Gold,No
+373,PT-100373,80+,Female,Melbourne Metro,Medicare Only,Yes
+374,PT-100374,50-64,Female,Adelaide Metro,Medicare Only,No
+375,PT-100375,80+,Female,Regional VIC,Medicare Only,Yes
+376,PT-100376,65-79,Other,Inner Sydney,Medicare Only,Yes
+377,PT-100377,35-49,Female,Inner Sydney,Private - Gold,No
+378,PT-100378,18-34,Male,Regional QLD,Private - Basic,No
+379,PT-100379,65-79,Male,Inner Sydney,Medicare Only,Yes
+380,PT-100380,80+,Male,Brisbane Metro,Medicare Only,No
+381,PT-100381,0-17,Male,Inner Sydney,Medicare Only,No
+382,PT-100382,65-79,Female,Melbourne Metro,Private - Gold,Yes
+383,PT-100383,65-79,Female,Melbourne Metro,Private - Basic,Yes
+384,PT-100384,50-64,Male,Regional QLD,Medicare Only,No
+385,PT-100385,65-79,Male,Western Sydney,Private - Basic,No
+386,PT-100386,80+,Female,Western Sydney,Medicare Only,Yes
+387,PT-100387,65-79,Female,Regional QLD,Medicare Only,No
+388,PT-100388,35-49,Male,Regional QLD,Private - Basic,No
+389,PT-100389,35-49,Male,Adelaide Metro,Medicare Only,No
+390,PT-100390,50-64,Male,Western Sydney,Medicare Only,No
+391,PT-100391,35-49,Female,Adelaide Metro,Medicare Only,No
+392,PT-100392,18-34,Female,Regional QLD,Private - Gold,Yes
+393,PT-100393,18-34,Female,Adelaide Metro,Medicare Only,Yes
+394,PT-100394,18-34,Male,Regional QLD,DVA,No
+395,PT-100395,0-17,Male,Regional VIC,Private - Basic,No
+396,PT-100396,18-34,Female,Brisbane Metro,Medicare Only,No
+397,PT-100397,18-34,Female,Brisbane Metro,Private - Basic,Yes
+398,PT-100398,0-17,Female,Regional SA,Private - Basic,No
+399,PT-100399,18-34,Female,Adelaide Metro,Medicare Only,Yes
+400,PT-100400,50-64,Female,Regional QLD,Medicare Only,No
+401,PT-100401,65-79,Male,Brisbane Metro,Medicare Only,No
+402,PT-100402,80+,Female,Adelaide Metro,Workers Compensation,Yes
+403,PT-100403,35-49,Male,Regional VIC,Medicare Only,No
+404,PT-100404,35-49,Female,Regional VIC,Private - Basic,No
+405,PT-100405,50-64,Male,Regional SA,Workers Compensation,No
+406,PT-100406,18-34,Male,Western Sydney,Private - Gold,No
+407,PT-100407,65-79,Male,Brisbane Metro,Medicare Only,Yes
+408,PT-100408,50-64,Male,Western Sydney,Medicare Only,No
+409,PT-100409,50-64,Male,Adelaide Metro,Private - Basic,No
+410,PT-100410,65-79,Male,Western Sydney,Medicare Only,Yes
+411,PT-100411,18-34,Female,Inner Sydney,Private - Basic,No
+412,PT-100412,50-64,Male,Regional QLD,Workers Compensation,No
+413,PT-100413,35-49,Female,Regional VIC,Medicare Only,Yes
+414,PT-100414,35-49,Male,Melbourne Metro,Medicare Only,No
+415,PT-100415,0-17,Female,Western Sydney,Medicare Only,Yes
+416,PT-100416,80+,Female,Regional SA,Private - Gold,Yes
+417,PT-100417,50-64,Female,Regional SA,Medicare Only,No
+418,PT-100418,35-49,Female,Regional QLD,Private - Gold,No
+419,PT-100419,50-64,Other,Regional VIC,Private - Basic,Yes
+420,PT-100420,50-64,Female,Regional SA,Medicare Only,No
+421,PT-100421,35-49,Male,Adelaide Metro,Medicare Only,No
+422,PT-100422,65-79,Female,Adelaide Metro,Medicare Only,No
+423,PT-100423,65-79,Male,Western Sydney,Private - Basic,Yes
+424,PT-100424,65-79,Female,Regional VIC,Medicare Only,Yes
+425,PT-100425,35-49,Male,Regional QLD,Private - Basic,No
+426,PT-100426,50-64,Female,Regional SA,Private - Basic,No
+427,PT-100427,65-79,Female,Western Sydney,Private - Gold,No
+428,PT-100428,35-49,Female,Regional QLD,Private - Gold,No
+429,PT-100429,50-64,Female,Adelaide Metro,Medicare Only,No
+430,PT-100430,50-64,Male,Melbourne Metro,Private - Basic,No
+431,PT-100431,50-64,Female,Regional SA,Private - Basic,Yes
+432,PT-100432,65-79,Female,Regional VIC,Private - Gold,No
+433,PT-100433,80+,Male,Regional SA,Medicare Only,Yes
+434,PT-100434,65-79,Female,Inner Sydney,Private - Gold,Yes
+435,PT-100435,18-34,Female,Brisbane Metro,Medicare Only,Yes
+436,PT-100436,35-49,Male,Western Sydney,Private - Basic,No
+437,PT-100437,35-49,Other,Inner Sydney,Private - Gold,No
+438,PT-100438,35-49,Female,Regional VIC,Medicare Only,No
+439,PT-100439,80+,Female,Western Sydney,Medicare Only,Yes
+440,PT-100440,80+,Female,Regional QLD,DVA,No
+441,PT-100441,50-64,Male,Regional VIC,Private - Gold,No
+442,PT-100442,65-79,Male,Melbourne Metro,Medicare Only,No
+443,PT-100443,65-79,Female,Western Sydney,Medicare Only,Yes
+444,PT-100444,65-79,Female,Brisbane Metro,DVA,Yes
+445,PT-100445,18-34,Female,Regional QLD,Private - Gold,No
+446,PT-100446,65-79,Female,Brisbane Metro,Private - Basic,No
+447,PT-100447,35-49,Male,Western Sydney,Medicare Only,Yes
+448,PT-100448,65-79,Male,Regional SA,Workers Compensation,No
+449,PT-100449,35-49,Male,Western Sydney,Private - Gold,Yes
+450,PT-100450,35-49,Female,Western Sydney,Private - Gold,No
+451,PT-100451,35-49,Male,Regional SA,Medicare Only,No
+452,PT-100452,65-79,Male,Regional SA,Private - Gold,Yes
+453,PT-100453,65-79,Female,Regional SA,Medicare Only,No
+454,PT-100454,80+,Female,Adelaide Metro,Medicare Only,Yes
+455,PT-100455,65-79,Male,Melbourne Metro,DVA,Yes
+456,PT-100456,65-79,Female,Western Sydney,Medicare Only,Yes
+457,PT-100457,80+,Female,Brisbane Metro,Private - Gold,Yes
+458,PT-100458,65-79,Female,Western Sydney,Medicare Only,Yes
+459,PT-100459,50-64,Female,Regional SA,Medicare Only,Yes
+460,PT-100460,65-79,Other,Adelaide Metro,Private - Gold,No
+461,PT-100461,50-64,Female,Western Sydney,Medicare Only,No
+462,PT-100462,35-49,Female,Melbourne Metro,Private - Gold,No
+463,PT-100463,50-64,Male,Melbourne Metro,Medicare Only,Yes
+464,PT-100464,65-79,Female,Adelaide Metro,Private - Basic,No
+465,PT-100465,35-49,Male,Melbourne Metro,Private - Gold,No
+466,PT-100466,50-64,Male,Regional QLD,Private - Gold,No
+467,PT-100467,18-34,Female,Brisbane Metro,Private - Gold,No
+468,PT-100468,65-79,Male,Brisbane Metro,Medicare Only,No
+469,PT-100469,50-64,Female,Inner Sydney,Private - Gold,No
+470,PT-100470,65-79,Female,Regional VIC,Private - Basic,Yes
+471,PT-100471,50-64,Male,Regional QLD,Workers Compensation,No
+472,PT-100472,18-34,Male,Regional QLD,Private - Basic,No
+473,PT-100473,18-34,Other,Western Sydney,Medicare Only,No
+474,PT-100474,0-17,Female,Inner Sydney,Workers Compensation,No
+475,PT-100475,35-49,Male,Adelaide Metro,Medicare Only,No
+476,PT-100476,35-49,Male,Melbourne Metro,Medicare Only,No
+477,PT-100477,35-49,Female,Melbourne Metro,Private - Basic,No
+478,PT-100478,35-49,Male,Western Sydney,Medicare Only,No
+479,PT-100479,35-49,Female,Regional VIC,Medicare Only,No
+480,PT-100480,35-49,Male,Brisbane Metro,Private - Gold,No
+481,PT-100481,50-64,Female,Melbourne Metro,Private - Gold,Yes
+482,PT-100482,18-34,Male,Brisbane Metro,Medicare Only,No
+483,PT-100483,18-34,Female,Western Sydney,Private - Gold,No
+484,PT-100484,0-17,Female,Western Sydney,Medicare Only,No
+485,PT-100485,80+,Male,Regional QLD,Medicare Only,No
+486,PT-100486,65-79,Female,Western Sydney,DVA,Yes
+487,PT-100487,50-64,Male,Inner Sydney,Medicare Only,Yes
+488,PT-100488,65-79,Female,Adelaide Metro,DVA,Yes
+489,PT-100489,18-34,Female,Adelaide Metro,Medicare Only,No
+490,PT-100490,18-34,Female,Western Sydney,Private - Basic,No
+491,PT-100491,18-34,Female,Regional VIC,Private - Gold,No
+492,PT-100492,80+,Female,Regional SA,DVA,No
+493,PT-100493,65-79,Female,Regional SA,Medicare Only,Yes
+494,PT-100494,18-34,Female,Regional VIC,Private - Basic,No
+495,PT-100495,50-64,Male,Regional VIC,Private - Gold,No
+496,PT-100496,50-64,Female,Adelaide Metro,Medicare Only,No
+497,PT-100497,50-64,Male,Inner Sydney,Workers Compensation,No
+498,PT-100498,0-17,Male,Brisbane Metro,Medicare Only,No
+499,PT-100499,50-64,Male,Inner Sydney,Workers Compensation,No
+500,PT-100500,18-34,Female,Regional VIC,DVA,No
+501,PT-100501,50-64,Female,Western Sydney,Private - Basic,No
+502,PT-100502,50-64,Female,Inner Sydney,Medicare Only,No
+503,PT-100503,80+,Female,Regional QLD,DVA,Yes
+504,PT-100504,35-49,Female,Regional SA,Medicare Only,No
+505,PT-100505,0-17,Male,Western Sydney,Medicare Only,No
+506,PT-100506,18-34,Female,Regional QLD,Workers Compensation,No
+507,PT-100507,18-34,Female,Western Sydney,Medicare Only,No
+508,PT-100508,65-79,Male,Inner Sydney,Medicare Only,Yes
+509,PT-100509,65-79,Male,Regional QLD,Medicare Only,Yes
+510,PT-100510,0-17,Male,Melbourne Metro,Medicare Only,No
+511,PT-100511,35-49,Male,Regional VIC,Medicare Only,No
+512,PT-100512,18-34,Female,Inner Sydney,Private - Gold,No
+513,PT-100513,80+,Male,Regional QLD,Private - Gold,Yes
+514,PT-100514,80+,Male,Western Sydney,Medicare Only,Yes
+515,PT-100515,0-17,Female,Melbourne Metro,Medicare Only,No
+516,PT-100516,65-79,Female,Regional SA,Medicare Only,No
+517,PT-100517,80+,Male,Regional SA,Medicare Only,Yes
+518,PT-100518,65-79,Female,Melbourne Metro,Medicare Only,Yes
+519,PT-100519,35-49,Male,Regional VIC,Private - Gold,Yes
+520,PT-100520,50-64,Female,Western Sydney,Medicare Only,No
+521,PT-100521,18-34,Male,Regional VIC,Private - Basic,No
+522,PT-100522,65-79,Other,Regional QLD,Private - Basic,No
+523,PT-100523,65-79,Male,Regional QLD,Medicare Only,Yes
+524,PT-100524,18-34,Female,Brisbane Metro,Medicare Only,No
+525,PT-100525,80+,Male,Regional VIC,Workers Compensation,Yes
+526,PT-100526,18-34,Female,Inner Sydney,Private - Gold,No
+527,PT-100527,80+,Other,Adelaide Metro,Medicare Only,No
+528,PT-100528,65-79,Female,Regional QLD,Private - Gold,No
+529,PT-100529,65-79,Female,Regional QLD,Workers Compensation,No
+530,PT-100530,50-64,Female,Regional SA,Private - Basic,No
+531,PT-100531,18-34,Female,Regional VIC,Medicare Only,Yes
+532,PT-100532,50-64,Male,Melbourne Metro,Medicare Only,No
+533,PT-100533,18-34,Male,Inner Sydney,Medicare Only,No
+534,PT-100534,50-64,Male,Regional QLD,Workers Compensation,No
+535,PT-100535,35-49,Female,Western Sydney,Medicare Only,No
+536,PT-100536,35-49,Male,Adelaide Metro,Private - Gold,No
+537,PT-100537,80+,Female,Regional QLD,Medicare Only,No
+538,PT-100538,50-64,Female,Brisbane Metro,Medicare Only,Yes
+539,PT-100539,65-79,Male,Adelaide Metro,Private - Gold,No
+540,PT-100540,65-79,Female,Regional QLD,DVA,No
+541,PT-100541,80+,Male,Regional SA,Medicare Only,Yes
+542,PT-100542,65-79,Other,Melbourne Metro,Private - Basic,Yes
+543,PT-100543,80+,Male,Regional QLD,Medicare Only,No
+544,PT-100544,35-49,Female,Brisbane Metro,Private - Gold,No
+545,PT-100545,65-79,Female,Adelaide Metro,Workers Compensation,Yes
+546,PT-100546,65-79,Female,Adelaide Metro,Medicare Only,Yes
+547,PT-100547,50-64,Male,Regional VIC,Medicare Only,No
+548,PT-100548,0-17,Female,Regional QLD,Medicare Only,No
+549,PT-100549,18-34,Male,Melbourne Metro,Private - Gold,No
+550,PT-100550,50-64,Female,Regional SA,Private - Gold,No
+551,PT-100551,35-49,Male,Adelaide Metro,Medicare Only,No
+552,PT-100552,18-34,Female,Brisbane Metro,Private - Gold,No
+553,PT-100553,35-49,Female,Regional SA,Medicare Only,Yes
+554,PT-100554,35-49,Female,Regional SA,Medicare Only,No
+555,PT-100555,0-17,Female,Western Sydney,Private - Basic,Yes
+556,PT-100556,18-34,Female,Brisbane Metro,Medicare Only,No
+557,PT-100557,50-64,Male,Regional QLD,Medicare Only,No
+558,PT-100558,0-17,Female,Brisbane Metro,Private - Basic,No
+559,PT-100559,18-34,Female,Regional QLD,Private - Gold,No
+560,PT-100560,35-49,Female,Inner Sydney,Private - Gold,No
+561,PT-100561,65-79,Male,Regional SA,Private - Basic,Yes
+562,PT-100562,18-34,Female,Inner Sydney,Private - Basic,No
+563,PT-100563,80+,Male,Melbourne Metro,Medicare Only,No
+564,PT-100564,65-79,Other,Regional VIC,Private - Gold,Yes
+565,PT-100565,18-34,Other,Adelaide Metro,Medicare Only,No
+566,PT-100566,65-79,Male,Regional QLD,DVA,Yes
+567,PT-100567,80+,Female,Adelaide Metro,Private - Basic,Yes
+568,PT-100568,65-79,Male,Inner Sydney,Private - Gold,Yes
+569,PT-100569,50-64,Female,Adelaide Metro,Medicare Only,No
+570,PT-100570,50-64,Male,Western Sydney,DVA,No
+571,PT-100571,50-64,Female,Regional QLD,DVA,Yes
+572,PT-100572,35-49,Male,Regional SA,Medicare Only,No
+573,PT-100573,35-49,Male,Adelaide Metro,Medicare Only,Yes
+574,PT-100574,65-79,Female,Regional SA,DVA,Yes
+575,PT-100575,65-79,Male,Brisbane Metro,Medicare Only,Yes
+576,PT-100576,65-79,Male,Regional VIC,Medicare Only,No
+577,PT-100577,80+,Male,Brisbane Metro,Private - Gold,Yes
+578,PT-100578,50-64,Female,Adelaide Metro,Private - Gold,Yes
+579,PT-100579,65-79,Male,Melbourne Metro,Medicare Only,No
+580,PT-100580,65-79,Male,Inner Sydney,Medicare Only,Yes
+581,PT-100581,65-79,Female,Inner Sydney,Medicare Only,Yes
+582,PT-100582,80+,Female,Regional SA,Private - Basic,No
+583,PT-100583,50-64,Female,Regional QLD,Private - Basic,Yes
+584,PT-100584,35-49,Female,Regional QLD,Medicare Only,No
+585,PT-100585,65-79,Male,Western Sydney,Medicare Only,Yes
+586,PT-100586,35-49,Male,Regional VIC,Private - Gold,Yes
+587,PT-100587,50-64,Female,Adelaide Metro,Private - Basic,No
+588,PT-100588,65-79,Male,Regional SA,DVA,No
+589,PT-100589,50-64,Female,Brisbane Metro,Private - Basic,No
+590,PT-100590,80+,Male,Brisbane Metro,Medicare Only,No
+591,PT-100591,35-49,Female,Regional SA,Medicare Only,No
+592,PT-100592,50-64,Male,Inner Sydney,Private - Basic,No
+593,PT-100593,50-64,Female,Brisbane Metro,Medicare Only,No
+594,PT-100594,18-34,Other,Regional QLD,DVA,Yes
+595,PT-100595,35-49,Male,Brisbane Metro,Medicare Only,No
+596,PT-100596,50-64,Female,Adelaide Metro,Private - Gold,No
+597,PT-100597,65-79,Male,Brisbane Metro,Medicare Only,No
+598,PT-100598,35-49,Female,Regional VIC,Medicare Only,No
+599,PT-100599,65-79,Male,Regional SA,DVA,No
+600,PT-100600,50-64,Male,Melbourne Metro,Medicare Only,No
+601,PT-100601,50-64,Male,Melbourne Metro,Workers Compensation,No
+602,PT-100602,65-79,Female,Regional VIC,Private - Gold,No
+603,PT-100603,35-49,Female,Brisbane Metro,Private - Basic,No
+604,PT-100604,50-64,Female,Western Sydney,Private - Basic,Yes
+605,PT-100605,18-34,Male,Brisbane Metro,Medicare Only,Yes
+606,PT-100606,65-79,Other,Regional QLD,Medicare Only,Yes
+607,PT-100607,50-64,Female,Regional QLD,DVA,No
+608,PT-100608,18-34,Female,Melbourne Metro,Medicare Only,Yes
+609,PT-100609,0-17,Female,Melbourne Metro,Private - Basic,No
+610,PT-100610,18-34,Male,Melbourne Metro,Private - Basic,No
+611,PT-100611,50-64,Male,Adelaide Metro,Medicare Only,No
+612,PT-100612,50-64,Male,Regional QLD,Private - Gold,No
+613,PT-100613,50-64,Female,Regional VIC,Medicare Only,Yes
+614,PT-100614,65-79,Female,Brisbane Metro,Medicare Only,Yes
+615,PT-100615,65-79,Female,Regional QLD,Medicare Only,Yes
+616,PT-100616,65-79,Other,Regional SA,Medicare Only,Yes
+617,PT-100617,18-34,Male,Adelaide Metro,Medicare Only,No
+618,PT-100618,18-34,Female,Inner Sydney,Private - Basic,No
+619,PT-100619,18-34,Male,Inner Sydney,Medicare Only,No
+620,PT-100620,50-64,Male,Inner Sydney,Private - Gold,No
+621,PT-100621,50-64,Male,Adelaide Metro,Medicare Only,Yes
+622,PT-100622,18-34,Male,Regional VIC,Private - Gold,No
+623,PT-100623,50-64,Male,Brisbane Metro,Private - Basic,No
+624,PT-100624,65-79,Male,Western Sydney,Medicare Only,Yes
+625,PT-100625,65-79,Male,Brisbane Metro,Private - Gold,Yes
+626,PT-100626,80+,Female,Melbourne Metro,Medicare Only,Yes
+627,PT-100627,50-64,Male,Regional QLD,Medicare Only,No
+628,PT-100628,0-17,Female,Regional SA,Medicare Only,Yes
+629,PT-100629,18-34,Male,Western Sydney,DVA,No
+630,PT-100630,50-64,Male,Brisbane Metro,Private - Basic,No
+631,PT-100631,18-34,Female,Brisbane Metro,Medicare Only,Yes
+632,PT-100632,50-64,Female,Inner Sydney,Medicare Only,No
+633,PT-100633,18-34,Female,Regional SA,Workers Compensation,No
+634,PT-100634,35-49,Female,Regional QLD,Medicare Only,No
+635,PT-100635,35-49,Female,Adelaide Metro,Private - Gold,No
+636,PT-100636,50-64,Male,Melbourne Metro,Medicare Only,No
+637,PT-100637,65-79,Male,Melbourne Metro,Medicare Only,Yes
+638,PT-100638,80+,Male,Regional SA,Medicare Only,Yes
+639,PT-100639,35-49,Female,Melbourne Metro,Private - Basic,No
+640,PT-100640,50-64,Female,Western Sydney,Medicare Only,No
+641,PT-100641,35-49,Male,Regional VIC,Workers Compensation,No
+642,PT-100642,50-64,Male,Western Sydney,Medicare Only,No
+643,PT-100643,65-79,Male,Adelaide Metro,Medicare Only,Yes
+644,PT-100644,65-79,Male,Inner Sydney,Private - Gold,No
+645,PT-100645,18-34,Male,Melbourne Metro,Medicare Only,No
+646,PT-100646,50-64,Male,Inner Sydney,Private - Basic,No
+647,PT-100647,50-64,Male,Western Sydney,Medicare Only,No
+648,PT-100648,65-79,Male,Regional SA,Medicare Only,Yes
+649,PT-100649,80+,Female,Adelaide Metro,Medicare Only,No
+650,PT-100650,50-64,Female,Brisbane Metro,DVA,Yes
+651,PT-100651,50-64,Female,Regional QLD,Medicare Only,No
+652,PT-100652,0-17,Female,Regional SA,Private - Gold,No
+653,PT-100653,35-49,Female,Regional VIC,Medicare Only,No
+654,PT-100654,35-49,Male,Regional QLD,Private - Gold,No
+655,PT-100655,0-17,Female,Adelaide Metro,Medicare Only,Yes
+656,PT-100656,50-64,Male,Adelaide Metro,Medicare Only,No
+657,PT-100657,65-79,Female,Adelaide Metro,Medicare Only,Yes
+658,PT-100658,50-64,Female,Regional SA,Medicare Only,No
+659,PT-100659,50-64,Male,Inner Sydney,Private - Basic,No
+660,PT-100660,0-17,Male,Regional SA,DVA,No
+661,PT-100661,65-79,Male,Melbourne Metro,Private - Gold,No
+662,PT-100662,18-34,Male,Regional QLD,Private - Basic,No
+663,PT-100663,35-49,Male,Regional VIC,Medicare Only,No
+664,PT-100664,80+,Female,Melbourne Metro,Medicare Only,No
+665,PT-100665,50-64,Male,Regional QLD,Private - Gold,No
+666,PT-100666,80+,Female,Brisbane Metro,Private - Gold,No
+667,PT-100667,80+,Male,Melbourne Metro,Private - Basic,Yes
+668,PT-100668,65-79,Female,Regional QLD,Private - Basic,Yes
+669,PT-100669,50-64,Male,Brisbane Metro,DVA,No
+670,PT-100670,35-49,Female,Adelaide Metro,Medicare Only,Yes
+671,PT-100671,50-64,Male,Melbourne Metro,Workers Compensation,No
+672,PT-100672,65-79,Female,Brisbane Metro,Medicare Only,Yes
+673,PT-100673,50-64,Female,Regional VIC,Private - Gold,No
+674,PT-100674,50-64,Male,Brisbane Metro,Private - Gold,No
+675,PT-100675,0-17,Female,Regional QLD,Workers Compensation,No
+676,PT-100676,0-17,Female,Regional SA,Private - Gold,No
+677,PT-100677,80+,Male,Regional VIC,Private - Gold,No
+678,PT-100678,80+,Female,Western Sydney,Medicare Only,Yes
+679,PT-100679,18-34,Female,Adelaide Metro,Medicare Only,No
+680,PT-100680,35-49,Male,Inner Sydney,Medicare Only,Yes
+681,PT-100681,65-79,Female,Regional QLD,Private - Basic,Yes
+682,PT-100682,65-79,Male,Brisbane Metro,Private - Basic,No
+683,PT-100683,50-64,Male,Regional QLD,Private - Basic,No
+684,PT-100684,80+,Male,Melbourne Metro,Medicare Only,Yes
+685,PT-100685,50-64,Female,Regional VIC,Private - Gold,Yes
+686,PT-100686,35-49,Male,Regional SA,Workers Compensation,No
+687,PT-100687,65-79,Female,Regional QLD,Medicare Only,No
+688,PT-100688,80+,Male,Inner Sydney,Private - Gold,No
+689,PT-100689,35-49,Male,Adelaide Metro,Medicare Only,No
+690,PT-100690,65-79,Male,Regional QLD,Private - Basic,Yes
+691,PT-100691,50-64,Female,Regional VIC,Medicare Only,No
+692,PT-100692,18-34,Male,Inner Sydney,Private - Basic,Yes
+693,PT-100693,18-34,Female,Adelaide Metro,Private - Gold,No
+694,PT-100694,18-34,Male,Adelaide Metro,Private - Gold,No
+695,PT-100695,80+,Female,Regional SA,Private - Gold,No
+696,PT-100696,0-17,Female,Brisbane Metro,Private - Basic,Yes
+697,PT-100697,50-64,Female,Adelaide Metro,Medicare Only,No
+698,PT-100698,35-49,Female,Western Sydney,Private - Basic,No
+699,PT-100699,50-64,Male,Inner Sydney,Private - Gold,No
+700,PT-100700,0-17,Female,Brisbane Metro,Private - Basic,No
+701,PT-100701,35-49,Female,Inner Sydney,Private - Basic,No
+702,PT-100702,50-64,Female,Brisbane Metro,Workers Compensation,Yes
+703,PT-100703,18-34,Male,Regional QLD,Workers Compensation,No
+704,PT-100704,0-17,Female,Inner Sydney,Medicare Only,No
+705,PT-100705,50-64,Male,Brisbane Metro,Medicare Only,No
+706,PT-100706,65-79,Female,Melbourne Metro,Medicare Only,No
+707,PT-100707,18-34,Female,Melbourne Metro,Private - Gold,No
+708,PT-100708,50-64,Male,Regional SA,Private - Gold,Yes
+709,PT-100709,0-17,Female,Regional VIC,Private - Gold,No
+710,PT-100710,50-64,Female,Regional VIC,Medicare Only,No
+711,PT-100711,50-64,Female,Regional SA,Medicare Only,No
+712,PT-100712,50-64,Female,Regional QLD,Private - Gold,No
+713,PT-100713,80+,Female,Regional VIC,Private - Gold,Yes
+714,PT-100714,50-64,Female,Regional QLD,DVA,No
+715,PT-100715,50-64,Female,Western Sydney,Medicare Only,No
+716,PT-100716,50-64,Male,Melbourne Metro,DVA,No
+717,PT-100717,18-34,Male,Western Sydney,DVA,No
+718,PT-100718,65-79,Male,Adelaide Metro,Private - Gold,No
+719,PT-100719,18-34,Female,Regional SA,Private - Gold,Yes
+720,PT-100720,18-34,Male,Brisbane Metro,Medicare Only,No
+721,PT-100721,50-64,Female,Inner Sydney,Private - Gold,Yes
+722,PT-100722,65-79,Male,Melbourne Metro,Private - Gold,No
+723,PT-100723,18-34,Male,Melbourne Metro,Private - Gold,Yes
+724,PT-100724,50-64,Female,Regional SA,Medicare Only,No
+725,PT-100725,35-49,Male,Regional QLD,Medicare Only,No
+726,PT-100726,80+,Female,Regional QLD,Medicare Only,No
+727,PT-100727,80+,Female,Brisbane Metro,Private - Basic,No
+728,PT-100728,50-64,Female,Western Sydney,Private - Basic,No
+729,PT-100729,35-49,Male,Regional QLD,Private - Gold,No
+730,PT-100730,35-49,Male,Inner Sydney,Private - Basic,No
+731,PT-100731,18-34,Female,Brisbane Metro,Medicare Only,Yes
+732,PT-100732,18-34,Male,Western Sydney,Private - Gold,No
+733,PT-100733,35-49,Female,Regional SA,Private - Basic,No
+734,PT-100734,50-64,Female,Regional VIC,Medicare Only,No
+735,PT-100735,50-64,Male,Inner Sydney,DVA,Yes
+736,PT-100736,18-34,Male,Adelaide Metro,Private - Basic,Yes
+737,PT-100737,50-64,Male,Brisbane Metro,Workers Compensation,Yes
+738,PT-100738,18-34,Female,Regional SA,Medicare Only,No
+739,PT-100739,65-79,Male,Melbourne Metro,Private - Basic,No
+740,PT-100740,50-64,Male,Regional SA,Private - Basic,Yes
+741,PT-100741,0-17,Female,Inner Sydney,Medicare Only,No
+742,PT-100742,65-79,Female,Melbourne Metro,Private - Basic,Yes
+743,PT-100743,18-34,Male,Western Sydney,Medicare Only,No
+744,PT-100744,50-64,Male,Inner Sydney,DVA,No
+745,PT-100745,65-79,Male,Regional QLD,DVA,No
+746,PT-100746,65-79,Male,Regional SA,Private - Gold,Yes
+747,PT-100747,35-49,Male,Western Sydney,Medicare Only,No
+748,PT-100748,18-34,Male,Western Sydney,Medicare Only,No
+749,PT-100749,65-79,Female,Inner Sydney,Private - Basic,Yes
+750,PT-100750,18-34,Male,Regional QLD,Medicare Only,Yes
+751,PT-100751,18-34,Male,Brisbane Metro,Private - Gold,No
+752,PT-100752,35-49,Female,Adelaide Metro,Private - Gold,No
+753,PT-100753,35-49,Female,Regional QLD,Private - Basic,No
+754,PT-100754,50-64,Male,Adelaide Metro,Private - Gold,No
+755,PT-100755,65-79,Male,Regional SA,Private - Gold,No
+756,PT-100756,80+,Male,Regional QLD,Private - Gold,Yes
+757,PT-100757,50-64,Female,Adelaide Metro,Workers Compensation,No
+758,PT-100758,0-17,Female,Adelaide Metro,Medicare Only,Yes
+759,PT-100759,35-49,Male,Adelaide Metro,Workers Compensation,No
+760,PT-100760,35-49,Female,Inner Sydney,Workers Compensation,No
+761,PT-100761,65-79,Female,Regional VIC,Private - Gold,No
+762,PT-100762,80+,Female,Regional VIC,Private - Basic,Yes
+763,PT-100763,50-64,Male,Melbourne Metro,Medicare Only,No
+764,PT-100764,35-49,Male,Adelaide Metro,Private - Basic,No
+765,PT-100765,50-64,Female,Western Sydney,Private - Basic,No
+766,PT-100766,65-79,Male,Regional QLD,Workers Compensation,No
+767,PT-100767,35-49,Female,Adelaide Metro,Private - Basic,No
+768,PT-100768,35-49,Female,Western Sydney,Private - Basic,No
+769,PT-100769,35-49,Male,Brisbane Metro,DVA,Yes
+770,PT-100770,65-79,Male,Adelaide Metro,Private - Basic,No
+771,PT-100771,65-79,Male,Regional SA,Private - Gold,No
+772,PT-100772,65-79,Female,Brisbane Metro,Medicare Only,No
+773,PT-100773,50-64,Male,Regional VIC,Private - Gold,No
+774,PT-100774,35-49,Male,Brisbane Metro,Medicare Only,No
+775,PT-100775,18-34,Male,Western Sydney,Private - Basic,No
+776,PT-100776,18-34,Female,Brisbane Metro,Medicare Only,No
+777,PT-100777,65-79,Female,Regional VIC,Medicare Only,No
+778,PT-100778,18-34,Female,Regional VIC,Private - Gold,No
+779,PT-100779,35-49,Female,Western Sydney,Private - Gold,No
+780,PT-100780,50-64,Male,Inner Sydney,Private - Gold,No
+781,PT-100781,35-49,Male,Brisbane Metro,Private - Basic,No
+782,PT-100782,80+,Female,Regional VIC,Private - Gold,No
+783,PT-100783,18-34,Female,Inner Sydney,Private - Basic,No
+784,PT-100784,35-49,Female,Western Sydney,Private - Gold,No
+785,PT-100785,50-64,Female,Regional VIC,Medicare Only,No
+786,PT-100786,18-34,Male,Melbourne Metro,Private - Basic,No
+787,PT-100787,18-34,Male,Regional QLD,Medicare Only,No
+788,PT-100788,35-49,Male,Regional QLD,Private - Gold,No
+789,PT-100789,35-49,Female,Regional VIC,Private - Gold,Yes
+790,PT-100790,65-79,Male,Adelaide Metro,Medicare Only,No
+791,PT-100791,65-79,Female,Inner Sydney,Medicare Only,No
+792,PT-100792,50-64,Male,Regional QLD,Private - Gold,No
+793,PT-100793,35-49,Male,Adelaide Metro,Medicare Only,No
+794,PT-100794,18-34,Female,Western Sydney,Medicare Only,No
+795,PT-100795,35-49,Male,Brisbane Metro,Medicare Only,No
+796,PT-100796,35-49,Male,Regional VIC,Private - Basic,No
+797,PT-100797,50-64,Male,Brisbane Metro,Medicare Only,No
+798,PT-100798,50-64,Male,Western Sydney,Medicare Only,No
+799,PT-100799,35-49,Female,Melbourne Metro,Private - Gold,No
+800,PT-100800,80+,Male,Adelaide Metro,Private - Gold,Yes

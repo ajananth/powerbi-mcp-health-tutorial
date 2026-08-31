@@ -1,0 +1,13 @@
+# Power BI
+*.pbix
+.pbi/
+localSettings.json
+*.abf
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
