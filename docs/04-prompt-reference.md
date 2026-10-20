@@ -36,10 +36,11 @@ Mark DimDate as the date table using the Date column.
 ### 4. Measures
 
 ```
-Create these measures in a new table called '_Measures', formatted appropriately:
-Total Encounters, Total Cost, Average Length of Stay, 30-Day Readmission Rate
-as a percentage, Average Wait Time, Average Satisfaction Score,
-Cost Recovery Rate as reimbursed over total cost, and Emergency Encounters.
+Create these measures in a new table called '_Measures': Total Encounters,
+Total Cost, Average Length of Stay, 30-Day Readmission Rate, Average Wait Time,
+Average Satisfaction Score, Cost Recovery Rate, and Emergency Encounters.
+Create '_Measures' as a DAX calculated table using ROW("Placeholder", BLANK()),
+not a Power Query/M table. Hide the placeholder column and run a calculation refresh.
 ```
 
 ### 5. Calculation group
